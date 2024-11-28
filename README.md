@@ -10,6 +10,7 @@ Solopreneur storys and indie hacker showcase
 通过[提交issue](https://github.com/hr98w/solopreneur/issues)进行投稿
 
 **投稿提供如下信息**
+- 名称 + 一句话简介：
 - 截图：
 - 网址/二维码：
 - 介绍/推荐语：
