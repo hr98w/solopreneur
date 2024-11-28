@@ -21,9 +21,9 @@ Solopreneur storys and indie hacker showcase
 
 ## 周刊发布
 
-周刊目前仅发表在公众号：独立开发
+周刊目前发表在公众号：独立开发
 
-网页版筹备中，如果能做起来
+网页版还在筹备中
 
 ![8cm](https://github.com/user-attachments/assets/3cf82190-467b-4c61-8620-056bbe7056f8)
 
