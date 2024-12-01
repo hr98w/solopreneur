@@ -38,7 +38,8 @@ Submit your work by [creating an issue](https://github.com/hr98w/solopreneur/iss
 The weekly is currently published on the WeChat official account: **独立开发**.  
 周刊目前发表在微信公众号：**独立开发**。
 
-The web version is under preparation.  
-网页版还在筹备中。
+English Web version: [https://digitalmarketings.io/solopreneur](https://digitalmarketings.io/solopreneur)
+
+英文网页版链接: [https://digitalmarketings.io/solopreneur](https://digitalmarketings.io/solopreneur)
 
 ![8cm](https://github.com/user-attachments/assets/3cf82190-467b-4c61-8620-056bbe7056f8)
