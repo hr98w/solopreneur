@@ -1,30 +1,44 @@
-# Solopreneur 独立开发者周刊
-Solopreneur storys and indie hacker showcase 
+# Solopreneur Weekly | 独立开发者周刊
 
-独立开发者周刊，收录一切有关独立开发的作品
+Solopreneur stories and indie hacker showcases.  
+独立开发者周刊，收录一切有关独立开发的作品。
 
-你的作品可以是**网站**，**客户端**产品，也可以是Github**开源项目**，**自媒体**，形式不限
+Your submissions can be **websites**, **client applications**, **open-source projects** on Github, **content creation**, or any other forms.  
+你的作品可以是**网站**，**客户端**产品，也可以是Github上的**开源项目**或**自媒体**，形式不限。
 
-## 投稿须知
+---
 
-通过[提交issue](https://github.com/hr98w/solopreneur/issues)进行投稿
+## Submission Guidelines | 投稿须知
 
-**投稿提供如下信息**
-- 名称 + 一句话简介：
-- 截图：
-- 网址/二维码：
-- 介绍/推荐语：
+Submit your work by [creating an issue](https://github.com/hr98w/solopreneur/issues).  
+通过[提交 issue](https://github.com/hr98w/solopreneur/issues)进行投稿。
 
-**可选信息**
-- 技术栈：
-- 作者信息：
-- 经验：（有没有哪些seo/marketing/技术等经验分享，比如使用了哪些技巧导致自然流量大幅增加，产品发布到了哪些平台收获了意外流量，做自媒体有什么心得）
+**Required Information | 必填信息**  
+- Name + A one-sentence introduction:  
+  名称 + 一句话简介：  
+- Screenshot:  
+  截图：  
+- Link/QR code:  
+  网址/二维码：  
+- Description/Recommendation:  
+  介绍/推荐语：
 
-## 周刊发布
+**Optional Information | 可选信息**  
+- Tech stack:  
+  技术栈：  
+- Author information:  
+  作者信息：  
+- Insights/Experience:  
+  经验：（如是否有SEO、市场推广或技术相关经验分享，比如使用了哪些技巧带来自然流量的增长，产品在哪些平台发布收获了意外流量，或做自媒体的心得）
 
-周刊目前发表在公众号：独立开发
+---
 
-网页版还在筹备中
+## Weekly Release | 周刊发布
+
+The weekly is currently published on the WeChat official account: **独立开发**.  
+周刊目前发表在微信公众号：**独立开发**。
+
+The web version is under preparation.  
+网页版还在筹备中。
 
 ![8cm](https://github.com/user-attachments/assets/3cf82190-467b-4c61-8620-056bbe7056f8)
-
